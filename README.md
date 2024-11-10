@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Carlos Pérez</h1>
 <h3 align="center">A passionate IT Support Manager with space for creativity and development</h3>
 
-- 🌱 I’m currently learning **IT Services Management, Godot Engine and Pixel Art.**
+- 🌱 I’m currently working as an **IT Services Manager.**
 
 - 👯 I’m looking to collaborate on [Linux Kernel](https://github.com/torvalds/linux)
 
