@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as an **IT Services Manager.**
 
-- 💬 Ask me about **IT Services, Linux, Git, Assets Management, **
+- 💬 Ask me about **IT Services, Linux, Git, Assets Management**
 
 - 📫 How to reach me **jcperez@protonmail.com**
 
